@@ -4,6 +4,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### Use Git
+
+`$ git init`
+`$ git add -A`    // -Aで全ファイル選択
+`$ git commit -m "first commit"`
+`$ git remote add origin https://github......`
+`$ git push -u origin master`   // Githubに反映されru
+
+
 ### `yarn start`
 
 Runs the app in the development mode.<br />
