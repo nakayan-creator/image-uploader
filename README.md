@@ -6,7 +6,7 @@ In the project directory, you can run:
 
 ### Use Git
 
-`$ git init`
+`$ git init`.
 `$ git add -A`    // -Aで全ファイル選択
 `$ git commit -m "first commit"`
 `$ git remote add origin https://github......`
