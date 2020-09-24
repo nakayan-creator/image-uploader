@@ -6,11 +6,11 @@ In the project directory, you can run:
 
 ### Use Git
 
-`$ git init`.
-`$ git add -A`    // -Aで全ファイル選択
-`$ git commit -m "first commit"`
-`$ git remote add origin https://github......`
-`$ git push -u origin master`   // Githubに反映されru
+`$ git init`<br />
+`$ git add -A`    // -Aで全ファイル選択 <br />
+`$ git commit -m "first commit"` <br />
+`$ git remote add origin https://github......` <br />
+`$ git push -u origin master`   // Githubに反映される <br />
 
 
 ### `yarn start`
