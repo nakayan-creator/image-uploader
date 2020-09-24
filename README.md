@@ -12,6 +12,10 @@ In the project directory, you can run:
 `$ git remote add origin https://github......` <br />
 `$ git push -u origin master`   // Githubに反映される <br />
 
+`$ git branch`    // 現在のbranchを表示 <br/>
+`$ git checkout -b branchname master` <br />
+`$ git push -u origin develop`
+
 
 ### `yarn start`
 
