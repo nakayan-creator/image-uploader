@@ -1,0 +1,6 @@
+export {default as Home} from './Home'
+// export {default as PrimaryButton} from './PrimaryButton'
+export {default as Home2} from './Home2'
+export {default as IsLoadingImage} from './IsLoadingImage'
+export {default as LoadedImage} from './LoadedImage'
+export {default as LoadingLine} from './LoadingLine'

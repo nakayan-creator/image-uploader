@@ -1,0 +1,13 @@
+
+.main {
+    max-width: 1060px;
+    margin: 100px auto;
+    padding: 100px;
+}
+.inner {
+    margin: 0 auto;
+    text-align: center;
+}
+.image_upload_display {
+    display: none;
+}
